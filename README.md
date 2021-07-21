@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Chandrakant Hatti  
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Pyhton, Statistics, Machine Learning    
+**Listen Trying to Learn Data Science, Chandrakant Hatti**
+------------------------------------------------------------
+
+![data-science-giphy](https://user-images.githubusercontent.com/17869072/126445575-0093a5be-9e2d-4ca8-92ea-2301b9c5b355.gif)
 
 
-<!---
-chandusayhi/chandusayhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
